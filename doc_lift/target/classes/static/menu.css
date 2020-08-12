@@ -1,0 +1,16 @@
+.logo{
+    display: block;
+    margin-left: 30%;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.menu_button{
+    background: rgb(67, 108, 155);
+    width: 500px;
+    height: 120px;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.newR{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+    color: rgb(67, 108, 155);
+    font-size: 35px;
+}
+
+.rd{
+    margin: 3px;
+}
+input{
+    width: 250px;
+    height: 50px;
+}

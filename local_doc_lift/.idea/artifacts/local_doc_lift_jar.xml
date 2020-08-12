@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="local_doc_lift:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/local_doc_lift_jar</output-path>
+    <root id="archive" name="local_doc_lift.jar">
+      <element id="module-output" name="local_doc_lift" />
+    </root>
+  </artifact>
+</component>

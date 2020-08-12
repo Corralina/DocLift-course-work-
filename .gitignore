@@ -1,0 +1,15 @@
+#corseWork
+
+.idea/*
+.target/*
+.out/*
+
+*.properties
+*.ini
+
+*.class
+
+*.war
+*.jar
+*.ear
+
